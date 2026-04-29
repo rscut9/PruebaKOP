@@ -71,3 +71,6 @@ C:\PruebaKOP\obj\Debug\net9.0\refint\MiJuegoPokemon.dll
 C:\PruebaKOP\obj\Debug\net9.0\MiJuegoPokemon.pdb
 C:\PruebaKOP\obj\Debug\net9.0\MiJuegoPokemon.genruntimeconfig.cache
 C:\PruebaKOP\obj\Debug\net9.0\ref\MiJuegoPokemon.dll
+C:\PruebaKOP\bin\Debug\net9.0\Content\pruebaOso.xnb
+C:\PruebaKOP\bin\Debug\net9.0\Content\pruebaOso2.xnb
+C:\PruebaKOP\bin\Debug\net9.0\Content\pruebaOso3.xnb

@@ -7,8 +7,14 @@
     <File>C:/PruebaKOP/Content/depositphotos_10589691-stock-photo-ground-background.png</File>
     <File>C:/PruebaKOP/Content/fuente.spritefont</File>
     <File>C:/PruebaKOP/Content/personaje.png</File>
+    <File>C:/PruebaKOP/Content/pruebaOso.png</File>
+    <File>C:/PruebaKOP/Content/pruebaOso2.png</File>
+    <File>C:/PruebaKOP/Content/pruebaOso3.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
