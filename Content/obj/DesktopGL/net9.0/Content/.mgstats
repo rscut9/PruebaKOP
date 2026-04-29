@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/PruebaKOP/Content/depositphotos_10589691-stock-photo-ground-background.png","C:/PruebaKOP/Content/bin/DesktopGL/Content/depositphotos_10589691-stock-photo-ground-background.xnb","TextureProcessor","Texture2DContent",634032,960085,0,1100468
+"C:/PruebaKOP/Content/fuente.spritefont","C:/PruebaKOP/Content/bin/DesktopGL/Content/fuente.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21530,0,0616946
+"C:/PruebaKOP/Content/personaje.png","C:/PruebaKOP/Content/bin/DesktopGL/Content/personaje.xnb","TextureProcessor","Texture2DContent",51596,201685,0,0157671
