@@ -106,6 +106,10 @@ PLANTAS
 * Psychotria elata (Labios de novia)
 * Trébol
 * Bonsai
+* Pipa de fantasma (Monotropa uniflora)
+* Flor murciélago (Tacca chantrieri)
+* Árbol dinamita (Hura crepitans)
+* Wisteria (Glicina)
 
 OBJETOS
 
